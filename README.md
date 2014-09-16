@@ -22,3 +22,5 @@ decoding process is quite simple:
 - call static DwgObject.snpsDecypher(ENCODED_PASSWORD);
 
 That's it.
+
+NOTE: There is generated EXE application binary for Microsoft Windows OS.
